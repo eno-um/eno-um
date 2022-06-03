@@ -1,4 +1,4 @@
-👋 Hi, I’m @eno-um
+**👋 Hi, I’m @eno-um**
 - 👀 I’m interested in how humans interact with technology & coming up creative solutions using data. 
 - 🌱 currently a 1st year Data Science Major from Rhode Island 
 
